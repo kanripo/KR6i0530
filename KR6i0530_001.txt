@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:55.976650
+#+DATE: 2015-08-30 20:21:57.552269
 #+TITLE: 諸法最上王經
 #+PROPERTY: CBETA_ID T17n0824
 #+PROPERTY: ID KR6i0530
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 824
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0530_T_001-0859a> 
 #+PROPERTY: JUAN 1
 ¶
-No.824[Nos.822,823]¶
-
- 《諸法最上王經》¶
+No. 824 [Nos. 822, 823]¶
+《諸法最上王經》¶
 ¶
 隋北印度三藏闍那崛多譯¶
 
@@ -512,7 +511,7 @@ No.824[Nos.822,823]¶
 魚等類及捕魚人，復有夜叉、羅剎、阿修羅、畢¶
 奢遮、龍、蛇、摩睺羅伽等，并餘無量雜類眾生。¶
 若是眾生，宮舍住處種種寶滿。所謂：珊瑚、鞞¶
-琉璃夜、帝釋青寶、車𤦲、摩尼珠貝等珍，并¶
+琉璃夜、帝釋青寶、車𤦲[(王*巨)/木]、摩尼珠貝等珍，并¶
 餘無邊諸寶住處，皆出大海，與諸雜類而作
 <pb:KR6i0530_T_001-0862b>¶
 利益，人得受用其益甚多。」
