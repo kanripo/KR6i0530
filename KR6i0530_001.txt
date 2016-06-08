@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:52
+#+DATE: 2016-06-08 9:53
 #+TITLE: 諸法最上王經
 #+PROPERTY: CBETA_ID T17n0824
 #+PROPERTY: ID KR6i0530
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 824
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0530_T_001-0859a> 
 #+PROPERTY: JUAN 1
 ¶
@@ -17,7 +17,7 @@ No. 824 [Nos. 822, 823]¶
 
 復次說此法時，婆伽婆遊於王舍竹林迦蘭¶
 陀精舍，與大比丘眾一千二百五十人俱，舊¶
-結髮優樓頻螺迦葉為首，悉阿羅漢，諸漏已¶
+結髮優頻螺迦葉為首，悉阿羅漢，諸漏已¶
 盡，應作者作所作已辦，棄捨重擔得到自利，¶
 盡諸有結，正智心好解脫，皆心自在到第一¶
 岸，唯除一人，謂命者阿難陀！¶
